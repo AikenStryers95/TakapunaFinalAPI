@@ -166,7 +166,7 @@ $(function() {
 
                     let venueIcon = L.icon({
                                                 iconUrl: venue.iconImage,
-                                                iconSize:[35,35]
+                                                iconSize:[40,40]
                                             });
                     let result = leafletPip.pointInLayer(venue.lnglat,suburb);
 
