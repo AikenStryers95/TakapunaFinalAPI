@@ -6123,10 +6123,10 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
   margin-top: .25em; }
 
 .button:hover {
-  background-color: #BEDBFF; }
+  background-color: #00314A; }
 
 .button:hover i {
-  color: #394263; }
+  color: white; }
 
 .modal-footer1 {
   display: flex;
